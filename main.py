@@ -75,10 +75,3 @@ if __name__ == "__main__":
             turn=1-turn    
     print("---------------------------- GAME OVER --------------------------")    
 
-    # playAgain= int(input("If you want to play again enter 1 else press any key: "))
-    # if(playAgain==1):
-    #     restart_main()
-    
-
-# There is 2 more problems --> handle the case when the index is already o or x
-                        #  --> restart the game
