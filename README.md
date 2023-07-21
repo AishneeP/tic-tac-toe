@@ -8,3 +8,8 @@ This is a simple command-line implementation of the classic Tic Tac Toe game usi
 - Draw Condition: The game identifies a draw when no more moves can be made, and no player wins.
 
 Requirements - Python 3.11.0
+
+Potential Updates
+- Restart the game: Ask the users if they wan to play again and implement the function all over again
+- Player Stats: Keep track of player statistics, such as the number of wins, losses, and draws.
+
